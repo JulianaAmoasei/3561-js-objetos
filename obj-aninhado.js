@@ -14,4 +14,4 @@ estudante.endereco = {
 
 console.log(estudante);
 console.log(estudante.endereco);
-console.log(estudante.endereco.rua);
+console.log(estudante.endereco.rua); // string
