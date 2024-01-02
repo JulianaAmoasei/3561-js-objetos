@@ -10,7 +10,6 @@
       "logradouro":"Rua Transport",
       "numero":"05",
       "cep":"46140",
-      "apartamento":true,
       "complemento":"ap 102"
     }
   },
@@ -24,8 +23,7 @@
     "endereco":{
       "logradouro":"Rua Kedzie",
       "numero":"89",
-      "cep":"613840",
-      "apartamento":false
+      "cep":"613840"
     }
   },
   {
@@ -39,7 +37,6 @@
       "logradouro":"Rua Karstens",
       "numero":"59",
       "cep":"627533",
-      "apartamento":true,
       "complemento":"ap 401"
     }
   },
@@ -52,8 +49,7 @@
     ],
     "endereco":{
       "logradouro":"Rua Algoma",
-      "numero":"077",
-      "apartamento":false
+      "numero":"077"
     }
   },
   {
@@ -66,8 +62,7 @@
     "endereco":{
       "logradouro":"Rua Crownhardt",
       "numero":"07",
-      "cep":"184366",
-      "apartamento":false
+      "cep":"184366"
     }
   },
   {
@@ -80,8 +75,7 @@
     "endereco":{
       "logradouro":"Rua Stone Corner",
       "numero":"40429",
-      "cep":"1000",
-      "apartamento":true
+      "cep":"1000"
     }
   },
   {
@@ -93,8 +87,7 @@
     ],
     "endereco":{
       "logradouro":"Rua Center",
-      "numero":"549",
-      "apartamento":false
+      "numero":"549"
     }
   },
   {
@@ -106,8 +99,7 @@
     ],
     "endereco":{
       "logradouro":"Rua Clyde Gallagher",
-      "numero":"3962",
-      "apartamento":false
+      "numero":"3962"
     }
   },
   {
@@ -121,7 +113,6 @@
       "logradouro":"Rua Valley Edge",
       "numero":"5",
       "cep":"20195",
-      "apartamento":false,
       "complemento":"Venda da tia Zezé"
     }
   },
@@ -135,7 +126,6 @@
     "endereco":{
       "logradouro":"Rua Ruskin",
       "numero":"36819",
-      "apartamento":true,
       "complemento":"Bloco 16 ap 202"
     }
   },
@@ -150,7 +140,6 @@
       "logradouro":"Rua Mosinee",
       "numero":"28672",
       "cep":"8314",
-      "apartamento":false,
       "complemento":"Bar dos coroas"
     }
   },
@@ -164,7 +153,6 @@
     "endereco":{
       "logradouro":"Rua Arkansas",
       "numero":"3983",
-      "apartamento":false,
       "complemento":"Mercadinho"
     }
   },
@@ -177,8 +165,7 @@
     ],
     "endereco":{
       "logradouro":"Rua West",
-      "numero":"8",
-      "apartamento":true
+      "numero":"8"
     }
   },
   {
@@ -191,8 +178,7 @@
     "endereco":{
       "logradouro":"Rua Rockefeller",
       "numero":"79",
-      "cep":"81028 CEDEX 9",
-      "apartamento":false
+      "cep":"81028 CEDEX 9"
     }
   },
   {
@@ -204,8 +190,7 @@
     ],
     "endereco":{
       "logradouro":"Rua Morrow",
-      "numero":"1",
-      "apartamento":true
+      "numero":"1"
     }
   },
   {
@@ -218,7 +203,6 @@
     "endereco":{
       "logradouro":"Rua Forest",
       "numero":"43",
-      "apartamento":false,
       "complemento":"Na frente da quadra de basquete"
     }
   },
@@ -232,7 +216,6 @@
     "endereco":{
       "logradouro":"Rua Karstens",
       "numero":"115",
-      "apartamento":true,
       "complemento":"ap 71"
     }
   },
@@ -247,7 +230,6 @@
       "logradouro":"Rua Parkside",
       "numero":"065",
       "cep":"H65",
-      "apartamento":true,
       "complemento":"ap 406"
     }
   },
@@ -262,7 +244,6 @@
       "logradouro":"Rua Artisan",
       "numero":"9",
       "cep":"2281",
-      "apartamento":false,
       "complemento":"Depois da trilha"
     }
   },
@@ -275,8 +256,7 @@
     ],
     "endereco":{
       "logradouro":"Rua Grim",
-      "numero":"480",
-      "apartamento":false
+      "numero":"480"
     }
   }
 ]
